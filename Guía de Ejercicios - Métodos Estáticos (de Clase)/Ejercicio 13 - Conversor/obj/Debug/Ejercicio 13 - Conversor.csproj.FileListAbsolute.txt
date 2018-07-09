@@ -1,0 +1,7 @@
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Métodos Estáticos (de Clase)\Ejercicio 13 - Conversor\bin\Debug\Ejercicio 13 - Conversor.exe.config
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Métodos Estáticos (de Clase)\Ejercicio 13 - Conversor\bin\Debug\Ejercicio 13 - Conversor.exe
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Métodos Estáticos (de Clase)\Ejercicio 13 - Conversor\bin\Debug\Ejercicio 13 - Conversor.pdb
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Métodos Estáticos (de Clase)\Ejercicio 13 - Conversor\obj\Debug\Ejercicio 13 - Conversor.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Métodos Estáticos (de Clase)\Ejercicio 13 - Conversor\obj\Debug\Ejercicio 13 - Conversor.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Métodos Estáticos (de Clase)\Ejercicio 13 - Conversor\obj\Debug\Ejercicio 13 - Conversor.exe
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Métodos Estáticos (de Clase)\Ejercicio 13 - Conversor\obj\Debug\Ejercicio 13 - Conversor.pdb

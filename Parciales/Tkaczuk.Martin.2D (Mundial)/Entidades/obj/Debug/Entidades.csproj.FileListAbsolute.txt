@@ -1,0 +1,11 @@
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20180626-SP\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20180626-SP\Entidades\bin\Debug\Entidades.dll
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20180626-SP\Entidades\bin\Debug\Entidades.pdb
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20180626-SP\Entidades\bin\Debug\Excepciones.dll
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20180626-SP\Entidades\bin\Debug\Excepciones.pdb
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20180626-SP\Entidades\obj\Debug\Entidades.dll
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20180626-SP\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Martin\Downloads\Segundo Parcial - LAB II\20180626-SP\Alumno\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Downloads\Segundo Parcial - LAB II\20180626-SP\Alumno\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Downloads\Segundo Parcial - LAB II\20180626-SP\Alumno\Entidades\obj\Debug\Entidades.dll
+C:\Users\Martin\Downloads\Segundo Parcial - LAB II\20180626-SP\Alumno\Entidades\obj\Debug\Entidades.pdb

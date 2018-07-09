@@ -1,0 +1,6 @@
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Conceptos Básicos\Ejercicio 07 - Días Vividos\bin\Debug\Ejercicio 07 - Días Vividos.exe.config
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Conceptos Básicos\Ejercicio 07 - Días Vividos\bin\Debug\Ejercicio 07 - Días Vividos.exe
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Conceptos Básicos\Ejercicio 07 - Días Vividos\bin\Debug\Ejercicio 07 - Días Vividos.pdb
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Conceptos Básicos\Ejercicio 07 - Días Vividos\obj\Debug\Ejercicio 07 - Días Vividos.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Conceptos Básicos\Ejercicio 07 - Días Vividos\obj\Debug\Ejercicio 07 - Días Vividos.exe
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Conceptos Básicos\Ejercicio 07 - Días Vividos\obj\Debug\Ejercicio 07 - Días Vividos.pdb

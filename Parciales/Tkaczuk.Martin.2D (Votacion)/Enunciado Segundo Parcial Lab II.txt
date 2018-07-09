@@ -1,0 +1,26 @@
+1.	Partir del proyecto entregado. Modificar el nombre de la carpeta y la solución con el siguiente formato: [APELLIDO].[NOMBRE].
+2.	Las excepciones propias irán en un nuevo proyecto llamado Excepciones.
+3.	El resto de las clases propuestas irán en un proyecto con nombre Entidades.
+4.	Dentro de la clase Votacion agregar las condiciones para que pueda:
+4.1.	Ser serializada en XML.
+4.2.	Invocar un evento (con nombre de evento EventoVotoEfectuado y de delegado Voto) que pueda ser manejado por el método ManejadorVoto de la clase FrmSenador.
+5.	Dentro del método Simular invocar el evento creado anteriormente bajo el comentario // Invocar Evento.
+6.	En el manejador del evento Click del botón btnSimular enlazar el evento de la votación con su manejador en el formulario, y lanzar el método Simular de votacion en un nuevo Thread. 
+7.	Crear una Interfaz llamada IArchivos con los métodos:
+7.1.	T Leer(string rutaArchivo)
+7.2.	bool Guardar(string rutaArchivo, T objeto)
+8.	Implementar dicha interfaz en
+8.1.	Una clase SerializarXML:
+8.1.1.	Leer retornará un elemento del tipo T leído desde el archivo ubicado en rutaArchivo.
+8.1.2.	Guardar serializará en XML el objeto dado.
+8.1.3.	Ante cualquier error en cualquiera de los dos métodos, lanzará la excepción propia ErrorArchivoException con el mensaje correspondiente.
+8.2.	Otra clase Dao:
+8.2.1.	Leer lanzará la excepción del sistema NotImplementedException. 
+8.2.2.	Guardar guardará los resultados de la votación en la base de datos dada.
+8.2.3.	Ante cualquier error, relanzar la excepción capturada.
+9.	Dentro de ManejadorVoto:
+9.1.	Reemplazar donde dice NOMBRE_EVENTO con el nombre del delegado de Votacion.
+9.2.	Debajo del comentario // Guardar resultados guardar los resultados de la votación tanto en la Base de Datos como en XML.
+10.	Test Unitarios:
+10.1.	Realizar un test que compruebe que si hay un error al querer serializar un objeto del tipo Votacion lance la excepción ErrorArchivoException.
+10.2.	Realizar un test que compruebe que el evento de la clase Votacion tantas veces como Senadores haya. O sea, si hay 2 senadores el evento será invocado 2 veces.

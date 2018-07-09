@@ -1,0 +1,7 @@
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Conceptos Básicos\Ejercicio 03 - Números Primos\bin\Debug\Ejercicio 03 - Números Primos.exe.config
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Conceptos Básicos\Ejercicio 03 - Números Primos\bin\Debug\Ejercicio 03 - Números Primos.exe
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Conceptos Básicos\Ejercicio 03 - Números Primos\bin\Debug\Ejercicio 03 - Números Primos.pdb
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Conceptos Básicos\Ejercicio 03 - Números Primos\obj\Debug\Ejercicio 03 - Números Primos.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Conceptos Básicos\Ejercicio 03 - Números Primos\obj\Debug\Ejercicio 03 - Números Primos.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Conceptos Básicos\Ejercicio 03 - Números Primos\obj\Debug\Ejercicio 03 - Números Primos.exe
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Conceptos Básicos\Ejercicio 03 - Números Primos\obj\Debug\Ejercicio 03 - Números Primos.pdb

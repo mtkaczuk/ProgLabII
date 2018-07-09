@@ -1,0 +1,7 @@
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Conceptos Básicos\Ejercicio 06 - Año Bisiesto\bin\Debug\Ejercicio 06 - Año Bisiesto.exe.config
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Conceptos Básicos\Ejercicio 06 - Año Bisiesto\bin\Debug\Ejercicio 06 - Año Bisiesto.exe
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Conceptos Básicos\Ejercicio 06 - Año Bisiesto\bin\Debug\Ejercicio 06 - Año Bisiesto.pdb
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Conceptos Básicos\Ejercicio 06 - Año Bisiesto\obj\Debug\Ejercicio 06 - Año Bisiesto.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Conceptos Básicos\Ejercicio 06 - Año Bisiesto\obj\Debug\Ejercicio 06 - Año Bisiesto.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Conceptos Básicos\Ejercicio 06 - Año Bisiesto\obj\Debug\Ejercicio 06 - Año Bisiesto.exe
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Conceptos Básicos\Ejercicio 06 - Año Bisiesto\obj\Debug\Ejercicio 06 - Año Bisiesto.pdb

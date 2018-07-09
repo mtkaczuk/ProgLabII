@@ -1,0 +1,7 @@
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Conceptos Básicos\Ejercicio 04 - Número Perfecto\bin\Debug\Ejercicio 04 - Número Perfecto.exe.config
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Conceptos Básicos\Ejercicio 04 - Número Perfecto\bin\Debug\Ejercicio 04 - Número Perfecto.exe
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Conceptos Básicos\Ejercicio 04 - Número Perfecto\bin\Debug\Ejercicio 04 - Número Perfecto.pdb
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Conceptos Básicos\Ejercicio 04 - Número Perfecto\obj\Debug\Ejercicio 04 - Número Perfecto.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Conceptos Básicos\Ejercicio 04 - Número Perfecto\obj\Debug\Ejercicio 04 - Número Perfecto.exe
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Conceptos Básicos\Ejercicio 04 - Número Perfecto\obj\Debug\Ejercicio 04 - Número Perfecto.pdb
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Conceptos Básicos\Ejercicio 04 - Número Perfecto\obj\Debug\Ejercicio 04 - Número Perfecto.csprojResolveAssemblyReference.cache

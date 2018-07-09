@@ -1,0 +1,7 @@
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Conceptos Básicos\Ejercicio 08 - Recibo Empleado\bin\Debug\Ejercicio 08 - Recibo Empleado.exe.config
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Conceptos Básicos\Ejercicio 08 - Recibo Empleado\bin\Debug\Ejercicio 08 - Recibo Empleado.exe
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Conceptos Básicos\Ejercicio 08 - Recibo Empleado\bin\Debug\Ejercicio 08 - Recibo Empleado.pdb
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Conceptos Básicos\Ejercicio 08 - Recibo Empleado\obj\Debug\Ejercicio 08 - Recibo Empleado.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Conceptos Básicos\Ejercicio 08 - Recibo Empleado\obj\Debug\Ejercicio 08 - Recibo Empleado.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Conceptos Básicos\Ejercicio 08 - Recibo Empleado\obj\Debug\Ejercicio 08 - Recibo Empleado.exe
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Conceptos Básicos\Ejercicio 08 - Recibo Empleado\obj\Debug\Ejercicio 08 - Recibo Empleado.pdb

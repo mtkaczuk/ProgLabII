@@ -1,0 +1,7 @@
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Conceptos Básicos\Ejercicio 02 - Cuadrado y Cubo\bin\Debug\Ejercicio 02 - Cuadrado y Cubo.exe.config
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Conceptos Básicos\Ejercicio 02 - Cuadrado y Cubo\bin\Debug\Ejercicio 02 - Cuadrado y Cubo.exe
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Conceptos Básicos\Ejercicio 02 - Cuadrado y Cubo\bin\Debug\Ejercicio 02 - Cuadrado y Cubo.pdb
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Conceptos Básicos\Ejercicio 02 - Cuadrado y Cubo\obj\Debug\Ejercicio 02 - Cuadrado y Cubo.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Conceptos Básicos\Ejercicio 02 - Cuadrado y Cubo\obj\Debug\Ejercicio 02 - Cuadrado y Cubo.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Conceptos Básicos\Ejercicio 02 - Cuadrado y Cubo\obj\Debug\Ejercicio 02 - Cuadrado y Cubo.exe
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Conceptos Básicos\Ejercicio 02 - Cuadrado y Cubo\obj\Debug\Ejercicio 02 - Cuadrado y Cubo.pdb

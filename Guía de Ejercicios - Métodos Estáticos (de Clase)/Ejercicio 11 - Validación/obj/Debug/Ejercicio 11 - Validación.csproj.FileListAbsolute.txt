@@ -1,0 +1,6 @@
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Métodos Estáticos (de Clase)\Ejercicio 11 - Validación\bin\Debug\Ejercicio 11 - Validación.exe.config
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Métodos Estáticos (de Clase)\Ejercicio 11 - Validación\bin\Debug\Ejercicio 11 - Validación.exe
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Métodos Estáticos (de Clase)\Ejercicio 11 - Validación\bin\Debug\Ejercicio 11 - Validación.pdb
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Métodos Estáticos (de Clase)\Ejercicio 11 - Validación\obj\Debug\Ejercicio 11 - Validación.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Métodos Estáticos (de Clase)\Ejercicio 11 - Validación\obj\Debug\Ejercicio 11 - Validación.exe
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Métodos Estáticos (de Clase)\Ejercicio 11 - Validación\obj\Debug\Ejercicio 11 - Validación.pdb

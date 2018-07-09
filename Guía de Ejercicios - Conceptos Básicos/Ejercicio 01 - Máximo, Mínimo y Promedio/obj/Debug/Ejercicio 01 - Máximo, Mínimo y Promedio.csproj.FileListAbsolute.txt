@@ -1,0 +1,7 @@
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Conceptos Básicos\Ejercicio 01 - Máximo, Mínimo y Promedio\bin\Debug\Ejercicio 01 - Máximo, Mínimo y Promedio.exe.config
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Conceptos Básicos\Ejercicio 01 - Máximo, Mínimo y Promedio\bin\Debug\Ejercicio 01 - Máximo, Mínimo y Promedio.exe
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Conceptos Básicos\Ejercicio 01 - Máximo, Mínimo y Promedio\bin\Debug\Ejercicio 01 - Máximo, Mínimo y Promedio.pdb
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Conceptos Básicos\Ejercicio 01 - Máximo, Mínimo y Promedio\obj\Debug\Ejercicio 01 - Máximo, Mínimo y Promedio.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Conceptos Básicos\Ejercicio 01 - Máximo, Mínimo y Promedio\obj\Debug\Ejercicio 01 - Máximo, Mínimo y Promedio.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Conceptos Básicos\Ejercicio 01 - Máximo, Mínimo y Promedio\obj\Debug\Ejercicio 01 - Máximo, Mínimo y Promedio.exe
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Conceptos Básicos\Ejercicio 01 - Máximo, Mínimo y Promedio\obj\Debug\Ejercicio 01 - Máximo, Mínimo y Promedio.pdb

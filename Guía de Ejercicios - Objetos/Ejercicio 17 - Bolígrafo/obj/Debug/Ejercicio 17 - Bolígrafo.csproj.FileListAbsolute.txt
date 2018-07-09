@@ -1,0 +1,7 @@
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Objetos\Ejercicio 17 - Bolígrafo\bin\Debug\Ejercicio 17 - Bolígrafo.exe.config
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Objetos\Ejercicio 17 - Bolígrafo\bin\Debug\Ejercicio 17 - Bolígrafo.exe
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Objetos\Ejercicio 17 - Bolígrafo\bin\Debug\Ejercicio 17 - Bolígrafo.pdb
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Objetos\Ejercicio 17 - Bolígrafo\obj\Debug\Ejercicio 17 - Bolígrafo.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Objetos\Ejercicio 17 - Bolígrafo\obj\Debug\Ejercicio 17 - Bolígrafo.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Objetos\Ejercicio 17 - Bolígrafo\obj\Debug\Ejercicio 17 - Bolígrafo.exe
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Objetos\Ejercicio 17 - Bolígrafo\obj\Debug\Ejercicio 17 - Bolígrafo.pdb

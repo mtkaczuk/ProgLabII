@@ -1,0 +1,6 @@
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Métodos Estáticos (de Clase)\Ejercicio 12 - Acumulador\bin\Debug\Ejercicio 12 - Acumulador.exe.config
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Métodos Estáticos (de Clase)\Ejercicio 12 - Acumulador\bin\Debug\Ejercicio 12 - Acumulador.exe
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Métodos Estáticos (de Clase)\Ejercicio 12 - Acumulador\bin\Debug\Ejercicio 12 - Acumulador.pdb
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Métodos Estáticos (de Clase)\Ejercicio 12 - Acumulador\obj\Debug\Ejercicio 12 - Acumulador.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Métodos Estáticos (de Clase)\Ejercicio 12 - Acumulador\obj\Debug\Ejercicio 12 - Acumulador.exe
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Métodos Estáticos (de Clase)\Ejercicio 12 - Acumulador\obj\Debug\Ejercicio 12 - Acumulador.pdb

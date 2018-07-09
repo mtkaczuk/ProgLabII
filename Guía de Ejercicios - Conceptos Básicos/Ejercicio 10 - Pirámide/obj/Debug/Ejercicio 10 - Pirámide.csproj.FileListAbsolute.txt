@@ -1,0 +1,6 @@
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Conceptos Básicos\Ejercicio 10 - Pirámide\bin\Debug\Ejercicio 10 - Pirámide.exe.config
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Conceptos Básicos\Ejercicio 10 - Pirámide\bin\Debug\Ejercicio 10 - Pirámide.exe
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Conceptos Básicos\Ejercicio 10 - Pirámide\bin\Debug\Ejercicio 10 - Pirámide.pdb
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Conceptos Básicos\Ejercicio 10 - Pirámide\obj\Debug\Ejercicio 10 - Pirámide.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Conceptos Básicos\Ejercicio 10 - Pirámide\obj\Debug\Ejercicio 10 - Pirámide.exe
+C:\Users\Martin\Documents\GitHub\ProgLab2\Guía de Ejercicios - Conceptos Básicos\Ejercicio 10 - Pirámide\obj\Debug\Ejercicio 10 - Pirámide.pdb
