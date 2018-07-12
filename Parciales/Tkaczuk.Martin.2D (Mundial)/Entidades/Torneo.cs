@@ -42,25 +42,24 @@ namespace Entidades
 
         public bool Guardar()
         {
-            bool retorno = false;
+            bool ret = false;
             try
             {
-                for (int i = 0; i < this.grupos.Count; i++)
+                foreach (Grupo grupo in grupos)
                 {
-                    string Archivo = String.Format("grupo-{0}.xml", this.grupos[i].LetraGrupo);
-                    XmlTextWriter writer;
-                    XmlSerializer ser;
-                    writer = new XmlTextWriter(Archivo, Encoding.UTF32);
-                    ser = new XmlSerializer(typeof(Grupo));
-                    ser.Serialize(writer, this.grupos[i]);
+                    string archivo = string.Format("grupo-{0}.xml", grupo.Letra);
+                    XmlSerializer serializer = new XmlSerializer(typeof(Grupo));
+                    XmlTextWriter writer = new XmlTextWriter(AppDomain.CurrentDomain.BaseDirectory + archivo, Encoding.UTF8);
+                    serializer.Serialize(writer, grupo);
                     writer.Close();
-                    retorno = true;
+                    ret = true;
                 }
             }
-            catch
+            catch (Exception ex)
             {
+                throw ex;
             }
-            return retorno;
+            return ret;
         }
         #endregion
     }

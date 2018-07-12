@@ -9,3 +9,9 @@ C:\Users\Martin\Downloads\Segundo Parcial - LAB II\20180626-SP\Alumno\Entidades\
 C:\Users\Martin\Downloads\Segundo Parcial - LAB II\20180626-SP\Alumno\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 C:\Users\Martin\Downloads\Segundo Parcial - LAB II\20180626-SP\Alumno\Entidades\obj\Debug\Entidades.dll
 C:\Users\Martin\Downloads\Segundo Parcial - LAB II\20180626-SP\Alumno\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Martin\Documents\GitHub\ProgLabII\Parciales\Tkaczuk.Martin.2D (Mundial)\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\GitHub\ProgLabII\Parciales\Tkaczuk.Martin.2D (Mundial)\Entidades\obj\Debug\Entidades.Properties.Resources.resources
+C:\Users\Martin\Documents\GitHub\ProgLabII\Parciales\Tkaczuk.Martin.2D (Mundial)\Entidades\obj\Debug\Entidades.csproj.GenerateResource.cache
+C:\Users\Martin\Documents\GitHub\ProgLabII\Parciales\Tkaczuk.Martin.2D (Mundial)\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Documents\GitHub\ProgLabII\Parciales\Tkaczuk.Martin.2D (Mundial)\Entidades\obj\Debug\Entidades.dll
+C:\Users\Martin\Documents\GitHub\ProgLabII\Parciales\Tkaczuk.Martin.2D (Mundial)\Entidades\obj\Debug\Entidades.pdb

@@ -1,0 +1,2 @@
+C:\Users\Martin\Documents\GitHub\ProgLabII\Parciales\Tkaczuk.Martin.2D (Mundial)\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\GitHub\ProgLabII\Parciales\Tkaczuk.Martin.2D (Mundial)\UnitTest\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache

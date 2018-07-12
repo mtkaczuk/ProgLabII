@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20180626-SP-Console", "2018
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excepciones", "Excepciones\Excepciones.csproj", "{1D878BA9-FB29-4740-B3C7-78C131F1B8C8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "UnitTest\UnitTest.csproj", "{B6AE38AF-66B2-44C6-AD0D-59CED6B923E8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{1D878BA9-FB29-4740-B3C7-78C131F1B8C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D878BA9-FB29-4740-B3C7-78C131F1B8C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D878BA9-FB29-4740-B3C7-78C131F1B8C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6AE38AF-66B2-44C6-AD0D-59CED6B923E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6AE38AF-66B2-44C6-AD0D-59CED6B923E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6AE38AF-66B2-44C6-AD0D-59CED6B923E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6AE38AF-66B2-44C6-AD0D-59CED6B923E8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

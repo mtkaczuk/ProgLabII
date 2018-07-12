@@ -9,48 +9,49 @@ namespace Entidades
 {
     public class GrupoDAO
     {
-        #region Variables
-        static private SqlCommand comando;
-        static private SqlConnection conexion;
-        #endregion
-            
-        #region Constructores
-        static GrupoDAO()
-        {
-            conexion = new SqlConnection(Entidades.Properties.Settings.Default.CadenaConexion);
-            comando = new SqlCommand();
-        }
-        #endregion
+        private static SqlCommand command;
+        private static SqlConnection connection;
 
-        #region Métodos
+        public GrupoDAO()
+        {
+            connection = new SqlConnection(Entidades.Properties.Settings.Default.ConeccionString);
+            command = new SqlCommand();
+        }
+
         public Grupo ObtieneGrupo(Grupo grupo)
         {
             try
             {
                 string query;
-                query = string.Format("SELECT * FROM dbo.Equipos where grupo = '{0}'", grupo.LetraGrupo);
-                comando.CommandText = query;
-                comando.Connection = conexion;
-                conexion.Open();
-                SqlDataReader data = comando.ExecuteReader();
-
-                Equipo nuevoEquipo = new Equipo((int)data[1], data[2].ToString());
-                grupo = grupo + nuevoEquipo;
+                query = string.Format("SELECT * FROM dbo.Equipo WHERE grupo = '{0}'", grupo.Letra.ToString());
+                command.CommandText = query;
+                command.CommandType = System.Data.CommandType.Text;
+                command.Connection = connection;
+                connection.Open();
+                SqlDataReader data = command.ExecuteReader();
+                while (data.Read())
+                {
+                    Equipo nuevoEquipo = new Equipo((int)data[1], data[2].ToString());
+                    grupo = grupo + nuevoEquipo;
+                }
             }
-            catch (SqlException et)
+            catch (SqlException exSQL)
             {
-                throw et;
+                throw exSQL;
             }
-            catch (Exception ee)
+            catch (Exception ex)
             {
-                throw ee;
+                throw ex;
             }
             finally
             {
-                conexion.Close();
+                if (conexion.State == ConnectionState.Open)
+                {
+                    connection.Close();
+                }				
             }
+
             return grupo;
         }
-        #endregion
     }
 }

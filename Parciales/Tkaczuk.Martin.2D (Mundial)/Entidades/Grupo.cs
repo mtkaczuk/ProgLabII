@@ -188,14 +188,12 @@ namespace Entidades
         public Grupo Leer()
         {
             GrupoDAO grupoDAO = new GrupoDAO();
-            Grupo nuevoGrupo = new Grupo(this.grupo, this.MaxCantidad);
-            nuevoGrupo = grupoDAO.ObtieneGrupo(this);
-            return nuevoGrupo;
+            return grupoDAO.ObtieneGrupo(this);
         }
 
         public Grupo Guardar()
         {
-            throw new NotImplementedException();
+            throw new NotImplementedException("El Grupo no podrá ser serializado");
         }
         #endregion
     }
