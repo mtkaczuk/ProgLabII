@@ -1,0 +1,9 @@
+C:\Users\martin.tkaczuk\Desktop\ClassLibrary1\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\martin.tkaczuk\Desktop\ClassLibrary1\Entidades\bin\Debug\Entidades.dll
+C:\Users\martin.tkaczuk\Desktop\ClassLibrary1\Entidades\bin\Debug\Entidades.pdb
+C:\Users\martin.tkaczuk\Desktop\ClassLibrary1\Entidades\bin\Debug\Excepciones.dll
+C:\Users\martin.tkaczuk\Desktop\ClassLibrary1\Entidades\bin\Debug\Excepciones.pdb
+C:\Users\martin.tkaczuk\Desktop\ClassLibrary1\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\martin.tkaczuk\Desktop\ClassLibrary1\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\martin.tkaczuk\Desktop\ClassLibrary1\Entidades\obj\Debug\Entidades.dll
+C:\Users\martin.tkaczuk\Desktop\ClassLibrary1\Entidades\obj\Debug\Entidades.pdb
